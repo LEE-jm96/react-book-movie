@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Booking Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Booking Movie Application made with React
 
-## Available Scripts
+## first Page
 
-In the project directory, you can run:
+![page1](https://user-images.githubusercontent.com/73169929/148678585-2ec99266-96e4-4b75-a36a-f7a10305465c.JPG)
 
 ### `npm start`
 
