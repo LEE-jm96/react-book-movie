@@ -1,0 +1,13 @@
+.MovieTemplate {
+  margin-top: -1rem;
+}
+
+.MovieTemplate > .title {
+  background: #22b8cf;
+  color: white;
+  height: 4rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
