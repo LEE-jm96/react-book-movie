@@ -12,5 +12,4 @@ Booking Movie Application made with React
 
 ### Third Page : 주문 번호 및 총액 확인 사이트 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![page3](https://user-images.githubusercontent.com/73169929/148678734-c59272d6-21a9-4fb5-9f5a-9f0892c6fe2d.JPG)
